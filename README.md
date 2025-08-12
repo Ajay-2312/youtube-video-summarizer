@@ -45,7 +45,7 @@ Deployed on *Google Cloud Run* with Docker for scalable, cloud-based AI content 
 ### 1️⃣ Clone the repository
 
 bash
-git clone https://github.com/Sathwik231012/youtube-video-summarizer.git
+git clone https://github.com/Ajay-2312/youtube-video-summarizer.git
 cd youtube-video-summarizer
 
 
@@ -74,4 +74,4 @@ Access it at http://127.0.0.1:8080
 
 Here’s how the app looks when generating a summary:
 
-![App Screenshot](assets/screenshot.jpeg)
+![App Screenshot](assets/screenshot.jpg)
